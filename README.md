@@ -1,12 +1,15 @@
-### Hey! I'm Shahid Ahamed Hasib :pray: <img align="right" alt="I am glad u came to visit" src="https://media.giphy.com/media/g06HKnMmtK1aXurndU/giphy.gif" width="290">
+### Hey! I'm Shahid Ahamed Hasib 👀 <img align="right" alt="I am glad u came to visit" src="https://media.giphy.com/media/g06HKnMmtK1aXurndU/giphy.gif" width="290">
 Happy to see you! 🤩
 <!--
 Welcome to my page, I am [Shahid Ahamed Hasib](https://shahidhasib586.github.io/) :octocat:</br></br>
 -->
 
 <u>About Me :</u></br>
+
 I like to build cool things.</br>
+
 Currently pursuing Bsc in Mechatronics Engineering (Batch: 2017-21) </br>
+
 ➤ Working on Battery RUL prediction with deep learning.
 
 ➤ Learning Python, Deep learning.
