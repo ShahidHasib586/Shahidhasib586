@@ -28,7 +28,7 @@ Currently pursuing Bsc in Mechatronics Engineering (Batch: 2017-21) </br>
 <a href="https://twitter.com/shahid_Hasib">
   <img align="left" alt="Hasib's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/https://linkedin.com/in/shahid-ahamed-hasib-040591118/">
+<a href="https://www.linkedin.com/in/shahid-ahamed-hasib-040591118/">
   <img align="left" alt="Hasib's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/Shahid_Hasib/?hl=en">
