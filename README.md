@@ -7,12 +7,18 @@ Welcome to my page, I am [Shahid Ahamed Hasib](https://shahidhasib586.github.io/
 <u>About Me :</u></br>
 I like to build cool things.</br>
 Currently pursuing Bsc in Mechatronics Engineering (Batch: 2017-21) </br>
-➤ Currently working on Battery RUL prediction with deep learning.
-➤ Currently learning Python, Deep learning.
+➤ Working on Battery RUL prediction with deep learning.
+
+➤ Learning Python, Deep learning.
+
 ➤ Looking to collaborate on ML projects.
+
 ➤ Looking for help with Deep learning.
+
 ➤ Ask me about ML, python, Blender3D, MATLAB_Simulin or any tech related stuffs.
+
 ➤ Reach me: Email: Shahidhasib586@gmail.com
+
 ➤ Fun fact: Animation, Gaming, Guitar, Sketching, Travelling I'm interested in everything.
 
 #### Find Me Around the Web </br>
