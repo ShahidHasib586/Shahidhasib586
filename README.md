@@ -41,8 +41,6 @@ Currently pursuing Bsc in Mechatronics Engineering (Batch: 2017-21) </br>
 
 
 
-
-
 ![Shahid Ahamed Hasib Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=shahidhasib586&show_icons=true&include_all_commits=true&theme=radical)
 ![Shahid Ahamed Hasib Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shahidhasib586&layout=compact&theme=radical)
 
