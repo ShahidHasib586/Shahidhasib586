@@ -8,11 +8,12 @@ Welcome to my page, I am [Shahid Ahamed Hasib](https://shahidhasib586.github.io/
 
 I like to build cool things.</br>
 
-Currently pursuing Bsc in Mechatronics Engineering (Batch: 2017-21) </br>
+Erasmus Mundus Scholar </br>
 
-➤ Working on Battery RUL prediction with deep learning.
+Marine and Maritime Intelligent Robotics </br>
 
-➤ Learning Python, Deep learning.
+➤ Working on robotics, and computer vision.
+➤ Python, Deep learning.
 
 ➤ Looking to collaborate on ML projects.
 
