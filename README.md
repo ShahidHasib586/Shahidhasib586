@@ -12,7 +12,7 @@ Erasmus Mundus Scholar </br>
 
 Marine and Maritime Intelligent Robotics </br>
 
-University of Toulon
+University of Toulon </br>
 NTNU
 
 ➤ Working on robotics, and computer vision.
