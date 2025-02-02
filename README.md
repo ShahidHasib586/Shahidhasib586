@@ -12,6 +12,9 @@ Erasmus Mundus Scholar </br>
 
 Marine and Maritime Intelligent Robotics </br>
 
+University of Toulon
+NTNU
+
 ➤ Working on robotics, and computer vision.
 ➤ Python, Deep learning.
 
