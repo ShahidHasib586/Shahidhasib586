@@ -1,64 +1,41 @@
-### Hey! I'm Shahid Ahamed Hasib 👀 <img align="right" alt="I am glad u came to visit" src="https://media.giphy.com/media/g06HKnMmtK1aXurndU/giphy.gif" width="290">
-Happy to see you! 🤩
-<!--
-Welcome to my page, I am [Shahid Ahamed Hasib](https://shahidhasib586.github.io/) :octocat:</br></br>
--->
+# Shahid Ahamed Hasib
 
-<u>About Me :</u></br>
+**Robotics · Computer vision · Sensor fusion · Autonomous systems**
 
-I like to build cool things.</br>
+I work on robotics and computer vision, with projects spanning underwater perception, stereo vision, image enhancement, visual SLAM, and vehicle control. My Erasmus Mundus programme is **Marine and Maritime Intelligent Robotics (MIR)** at **Université de Toulon** and **NTNU**.
 
-Erasmus Mundus Scholar </br>
+This profile brings together my public research software, robotics projects, and selected engineering work.
 
-Marine and Maritime Intelligent Robotics </br>
+[LinkedIn](https://www.linkedin.com/in/shahid-ahamed-hasib-040591118/)
 
-University of Toulon </br>
-NTNU
+## Selected robotics projects
 
-➤ Working on robotics, and computer vision.
-➤ Python, Deep learning.
+| Project | What you will find |
+| --- | --- |
+| [Multi camera perception and fusion](https://github.com/ShahidHasib586/Multi-View-Fusion-Object-Detection-for-underwater-robotic-systems) | ROS 2 detection, class aware association, confidence fusion, stereo calibration, and triangulation. |
+| [BlueROV sensor acquisition](https://github.com/ShahidHasib586/BlueROV-multi-sensor-Data-collection) | Camera and sonar acquisition, MAVROS integration, recording, and operator tools for underwater experiments. |
+| [LoFTR stereo triangulation](https://github.com/ShahidHasib586/LoFTR-Triangulation) | Feature correspondences, stereo object association, and object level 3D localisation, with offline and ROS 2 workflows. |
+| [ORB SLAM3 with OceanSim](https://github.com/ShahidHasib586/Orb3-Slam-with-oceansim) | Integration notes, camera configuration, and launch support for monocular SLAM with ROS 2 and Isaac Sim. |
+| [AUV depth control with LQR](https://github.com/ShahidHasib586/Simulation-and-Control-of-Autonomous-Underwater-Vehicle-AUV-) | MATLAB and Simulink coursework on vehicle modelling, linearisation, and optimal depth control. |
+| [Visual servoing](https://github.com/ShahidHasib586/Visual-Servoing-BlueROV) | Collaborative coursework on BlueROV visual tracking and image based control, including a Panda arm simulation. |
 
-➤ Looking to collaborate on ML projects.
+## More engineering work
 
-➤ Looking for help with Deep learning.
+| Area | Repository |
+| --- | --- |
+| Underwater detection | [YOLOv8 experiments](https://github.com/ShahidHasib586/Underwater-object-detection-using-yolov8) |
+| Vehicle modelling | [Sparus AUV simulation](https://github.com/ShahidHasib586/Simulation-of-Underwater-Vehicle-Sparus-AUV) |
+| State estimation | [Kalman filtering notebooks](https://github.com/ShahidHasib586/Kalman-Filterning) |
+| Applied machine learning | [Electric vehicle range prediction](https://github.com/ShahidHasib586/Driving-Range-Prediction) |
+| Data preparation | [NASA battery data conversion](https://github.com/ShahidHasib586/Converting-a-complex-.mat-file-to-CSV) |
+| Scientific software | [Rust terrain viewer](https://github.com/ShahidHasib586/rust-dem-viewer) |
+| Underwater sensing | [Acoustics coursework](https://github.com/ShahidHasib586/Underwater-Acoustics) |
+| Mechatronics | [Room temperature control](https://github.com/ShahidHasib586/Room-Temperature-Control) and [CAD modelling](https://github.com/ShahidHasib586/Solidworks-Part-Modeling-) |
 
-➤ Ask me about ML, python, Blender3D, MATLAB_Simulin or any tech related stuffs.
+## Tools used in these projects
 
-➤ Reach me: Email: Shahidhasib586@gmail.com
+**Python, MATLAB, Simulink, Rust, ROS 2, PyTorch, OpenCV, YOLO, LoFTR, ORB SLAM3, NVIDIA Isaac Sim, OceanSim, and PyBullet.**
 
-➤ Fun fact: Animation, Gaming, Guitar, Sketching, Travelling I'm interested in everything.
+The project READMEs describe the available code, setup requirements, and scope of each experiment. Earlier programming exercises remain part of my learning history.
 
-#### Find Me Around the Web </br>
-<a href="https://twitter.com/shahid_Hasib">
-  <img align="left" alt="Hasib's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/shahid-ahamed-hasib-040591118/">
-  <img align="left" alt="Hasib's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/Shahid_Hasib/?hl=en">
-  <img align="left" alt="Hasib's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<a href="https://www.facebook.com/Shahidahamed.hasib">
-  <img align="left" alt="Hasib's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a></br></br>
-
-
-
-![Shahid Ahamed Hasib Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=shahidhasib586&show_icons=true&include_all_commits=true&theme=radical)
-![Shahid Ahamed Hasib Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shahidhasib586&layout=compact&theme=radical)
-
-
-<!--
-**Shahidhasib586/Shahidhasib586** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:**
-- 🔭 I’m currently working on Battery RUL prediction with deep learning.
-- 🌱 I’m currently learning Python, Deep learning.
-- 👯 I’m looking to collaborate on ML projects.
-- 🤔 I’m looking for help with Deep learning.
-- 💬 Ask me about ML, python, Blender3D, MATLAB_Simulin or any tech related stuffs.
-- 📫 How to reach me: Email: Shahidhasib586@gmail.com, Facebook: https://fb.com/shahidahamed.hasib, Linkedin: https://linkedin.com/in/shahid-ahamed-hasib-040591118/
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Animation, Gaming, Guitar, Sketching, Travelling I'm interested in everything.
--->
+*Repository selection updated in September 2026.*
