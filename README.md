@@ -4,9 +4,13 @@
 
 I work on robotic perception and intelligent systems, with a background in mechatronics and marine robotics. My recent research focuses on helping underwater robots acquire, enhance, interpret, and combine visual and sonar information. I am particularly interested in reliable perception under difficult imaging conditions, 3D object localisation, visual SLAM, and the connection between perception and robot control.
 
-I completed my Erasmus Mundus MIR studies at **Université de Toulon, France**, and the **Norwegian University of Science and Technology (NTNU), Norway**, and submitted my master's thesis in July 2026. The final joint degree award is pending. I also hold a **B.Sc. in Mechatronics Engineering from RUET**, where I ranked **2nd in my class** with a **CGPA of 3.69/4.00**.
+I completed the **Erasmus Mundus Master's in Marine and Maritime Intelligent Robotics (MIR)** through **Université de Toulon, France**, and the **Norwegian University of Science and Technology (NTNU), Norway**. My master's thesis focused on multi-camera fusion, underwater image enhancement, object detection, and robotic perception. I have accepted a **PhD offer at Université Laval, Québec, Canada**, and am completing the admission and administrative process. I also hold a **B.Sc. in Mechatronics Engineering from RUET**, where I ranked **2nd in my class** with a **CGPA of 3.69/4.00**.
 
 [LinkedIn](https://www.linkedin.com/in/shahid-ahamed-hasib-040591118/) · [Email](mailto:Shahidhasib586@gmail.com)
+
+## Incoming doctoral research
+
+My planned doctoral research at **Université Laval**, under the supervision of **Prof. Claire Dune**, explores **world models for semantically aligned under-ice navigation**. My research interests include multimodal world models, predictive planning, uncertainty-aware navigation, active perception, autonomous underwater robotics, reinforcement learning, and robust decision-making in GPS-denied environments. This is planned PhD work, not a claim of completed research or current PhD enrolment.
 
 ## Selected robotics projects
 
@@ -43,6 +47,6 @@ I am preparing manuscripts on **lightweight underwater image enhancement**, a **
 **Robotics:** ROS 2, BlueROV, MAVROS, visual servoing, state estimation, and AUV modelling and control.  
 **Simulation:** NVIDIA Isaac Sim, OceanSim, and PyBullet.
 
-My publication record includes **eight journal articles and two conference papers**, alongside the manuscripts currently in preparation. I am open to **PhD, research, and engineering opportunities** in robotics, computer vision, intelligent perception, and autonomous systems.
+My publication record includes **eight journal articles and two conference papers**, alongside the manuscripts currently in preparation. My current focus is transitioning into doctoral research, while remaining interested in **research collaborations** involving robotics, computer vision, intelligent perception, and autonomous systems.
 
-*Profile information updated in September 2026.*
+*Profile information updated in October 2026.*
